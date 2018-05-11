@@ -1,2 +1,2 @@
 # mmservice
-From SSG
+From SSG2
